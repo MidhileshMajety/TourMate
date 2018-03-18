@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TourMate</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+</resources>
